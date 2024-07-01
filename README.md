@@ -12,6 +12,9 @@
 - [References](#references)
   ## Project Overview
 This project analyzes the sales data of a Superstore in the United States to provide insights into various aspects of the store's performance from 2014 to 2017. The analysis aims to help stakeholders understand sales trend, identify high and low-performing products, and optimize inventory and marketing strategies.
+
+![0](https://github.com/Adedolapo10/United-State-Superstore/assets/170622289/d42fdb80-b120-48a1-8158-8efb3028698d)
+
 ## Data Source
 Sales Data: The primary dataset used for this analysis was obtained from Kaggle, which contained detailed information about each sales made by the company. 
 ## Data
