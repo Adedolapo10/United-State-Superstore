@@ -1,15 +1,15 @@
 # United State Superstore Sales Report
 ## Tabele of Contents
-- [Project Overview](project-overview)
-- [Data](data)
-- [Data Source](data-source)
-- [Tools](tools)
-- [Data Cleaning](data-cleaning)
-- [Exploratory Data Analysis](exploratory-data-analysis)
-- [Data Analysis](data-analysis)
-- [Results](results)
-- [Recommendation](recommendation)
-- [References](References)
+- [Project Overview](#project-overview)
+- [Data](#data)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results](#results)
+- [Recommendation](#recommendation)
+- [References](#references)
   ## Project Overview
 This project analyzes the sales data of a Superstore in the United States to provide insights into various aspects of the store's performance from 2014 to 2017. The analysis aims to help stakeholders understand sales trend, identify high and low-performing products, and optimize inventory and marketing strategies.
 ## Data Source
