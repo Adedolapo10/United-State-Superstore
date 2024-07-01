@@ -56,13 +56,13 @@ This involves several interesting steps.
 - Removing Columns 
 ## Results
 The data analysis results are summarized as follows:
-1. The total sales over the period amount to $2,297,200.86. 
-2. The Total Transactions are 5009
-3. How sales trended over the months. The month that has the highest sales after summing the total sales from 2014 to 2017 was November.
-4. The weekly average sales range from $216.30 to $259.68.
-5. The number of transactions per week ranges from $37,000 to $187,000.
+1. The total sales over the period amount to **$2,297,200.86**. 
+2. The Total Transactions are **5009**
+3. How sales trended over the months. The month that has the highest sales after summing the total sales from **2014** to **2017** was **November**.
+4. The weekly average sales range from **$216.30** to **$259.68**.
+5. The number of transactions per week ranges from **$37,000** to **$187,000**.
 6. Year, Region, and Category slicers were used to give more insight into the sales performance.
-7. The Ask a Question button was provided to give initiate questions and answers.
+7. The *Ask a Question* button was provided to initiate questions and answers.
 ## Recommendation
 Based on the analysis, we recommend the follwing actions: 
 - Focus on expanding the marketing of products category in the south region, which has the lowest sales.
